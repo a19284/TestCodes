@@ -1,0 +1,14 @@
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\amqmdxcs\obj\x86\Debug\amqmdxcs.csprojResolveAssemblyReference.cache
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\amqmdxcs\bin\Debug\amqmdxcs.dll
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\amqmdxcs\bin\Debug\amqmdxcs.pdb
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\amqmdxcs\obj\x86\Debug\amqmdxcs.dll
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\amqmdxcs\obj\x86\Debug\amqmdxcs.pdb
+C:\Users\zhangyiyan\Desktop\WMB\ESB_MQ\amqmdxcs\bin\Debug\amqmdxcs.dll
+C:\Users\zhangyiyan\Desktop\WMB\ESB_MQ\amqmdxcs\bin\Debug\amqmdxcs.pdb
+C:\Users\zhangyiyan\Desktop\WMB\ESB_MQ\amqmdxcs\obj\x86\Debug\amqmdxcs.csprojResolveAssemblyReference.cache
+C:\Users\zhangyiyan\Desktop\WMB\ESB_MQ\amqmdxcs\obj\x86\Debug\amqmdxcs.dll
+C:\Users\zhangyiyan\Desktop\WMB\ESB_MQ\amqmdxcs\obj\x86\Debug\amqmdxcs.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\amqmdxcs\bin\Debug\amqmdxcs.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\amqmdxcs\bin\Debug\amqmdxcs.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\amqmdxcs\obj\x86\Debug\amqmdxcs.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\amqmdxcs\obj\x86\Debug\amqmdxcs.pdb

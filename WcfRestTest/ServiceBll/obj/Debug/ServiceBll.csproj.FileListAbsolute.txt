@@ -1,0 +1,18 @@
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ServiceBll\bin\Debug\ServiceBll.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ServiceBll\bin\Debug\ServiceBll.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ServiceBll\bin\Debug\IServiceInterface.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ServiceBll\bin\Debug\Model.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ServiceBll\bin\Debug\IServiceInterface.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ServiceBll\bin\Debug\Model.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ServiceBll\obj\Debug\ServiceBll.csprojResolveAssemblyReference.cache
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ServiceBll\obj\Debug\ServiceBll.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ServiceBll\obj\Debug\ServiceBll.pdb
+D:\Mycode\WcfRestTest\ServiceBll\bin\Debug\ServiceBll.dll
+D:\Mycode\WcfRestTest\ServiceBll\bin\Debug\ServiceBll.pdb
+D:\Mycode\WcfRestTest\ServiceBll\bin\Debug\IServiceInterface.dll
+D:\Mycode\WcfRestTest\ServiceBll\bin\Debug\Model.dll
+D:\Mycode\WcfRestTest\ServiceBll\bin\Debug\IServiceInterface.pdb
+D:\Mycode\WcfRestTest\ServiceBll\bin\Debug\Model.pdb
+D:\Mycode\WcfRestTest\ServiceBll\obj\Debug\ServiceBll.csprojResolveAssemblyReference.cache
+D:\Mycode\WcfRestTest\ServiceBll\obj\Debug\ServiceBll.dll
+D:\Mycode\WcfRestTest\ServiceBll\obj\Debug\ServiceBll.pdb

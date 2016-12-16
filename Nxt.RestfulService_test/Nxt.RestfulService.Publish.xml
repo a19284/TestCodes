@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\IISPOOL\TEST2" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Global.asax" publishTime="02/24/2014 20:36:44" />
+    <file relUrl="bin/Nxt.RestfulService.dll" publishTime="10/19/2016 15:02:54" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="02/10/2014 09:54:39" />
+    <file relUrl="bin/Nxt.RestfulService.pdb" publishTime="10/19/2016 15:02:54" />
+    <file relUrl="Web.config" publishTime="10/12/2016 16:56:47" />
+  </publishProfile>
+</publishData>

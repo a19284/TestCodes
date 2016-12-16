@@ -1,0 +1,7 @@
+D:\SVNOnMyPC\新版物联网-常领峰\NxtWebDaemon\Nxt.Tests\bin\Nxt.Tests.dll
+D:\SVNOnMyPC\新版物联网-常领峰\NxtWebDaemon\Nxt.Tests\bin\Nxt.Tests.pdb
+D:\SVNOnMyPC\新版物联网-常领峰\NxtWebDaemon\Nxt.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\SVNOnMyPC\新版物联网-常领峰\NxtWebDaemon\Nxt.Tests\obj\Debug\Nxt.Tests.dll
+D:\SVNOnMyPC\新版物联网-常领峰\NxtWebDaemon\Nxt.Tests\obj\Debug\Nxt.Tests.pdb
+D:\SVNOnMyPC\新版物联网-常领峰\NxtWebDaemon\Nxt.Tests\bin\Nxt.RestfulService.dll
+D:\SVNOnMyPC\新版物联网-常领峰\NxtWebDaemon\Nxt.Tests\bin\Nxt.RestfulService.pdb

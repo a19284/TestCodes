@@ -1,0 +1,22 @@
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\bin\RestService.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\bin\RestService.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\bin\IServiceInterface.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\bin\ServiceBll.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\bin\Model.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\bin\IServiceInterface.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\bin\ServiceBll.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\bin\Model.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\obj\Debug\RestService.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\RestService\obj\Debug\RestService.pdb
+D:\Mycode\WcfRestTest\RestService\bin\RestService.dll
+D:\Mycode\WcfRestTest\RestService\bin\RestService.pdb
+D:\Mycode\WcfRestTest\RestService\bin\IServiceInterface.dll
+D:\Mycode\WcfRestTest\RestService\bin\ServiceBll.dll
+D:\Mycode\WcfRestTest\RestService\bin\Model.dll
+D:\Mycode\WcfRestTest\RestService\bin\IServiceInterface.pdb
+D:\Mycode\WcfRestTest\RestService\bin\ServiceBll.pdb
+D:\Mycode\WcfRestTest\RestService\bin\Model.pdb
+D:\Mycode\WcfRestTest\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+D:\Mycode\WcfRestTest\RestService\obj\Debug\RestService.dll
+D:\Mycode\WcfRestTest\RestService\obj\Debug\RestService.pdb

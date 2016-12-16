@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{090B5890-15D1-4457-95FE-C3845A45BE33}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>amqmdnet</AssemblyName>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Configuration" />
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="IBM\WMQ\PCF\CMQCFC.cs" />
+    <Compile Include="IBM\WMQ\MQBase.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiMQ.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiSP.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\BindingsNmqiMQ.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiObject.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\Hobj.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\BindingsHobj.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\Hconn.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\BindingsHconn.cs" />
+    <Compile Include="IBM\WMQ\IMQCommsBuffer.cs" />
+    <Compile Include="IBM\WMQ\MethodTable.cs" />
+    <Compile Include="IBM\WMQ\MQException.cs" />
+    <Compile Include="IBM\WMQAX\MQException.cs" />
+    <Compile Include="IBM\WMQ\MQBaseObject.cs" />
+    <Compile Include="IBM\WMQ\MQGetMessageOptions.cs" />
+    <Compile Include="IBM\WMQAX\MQGetMessageOptions.cs" />
+    <Compile Include="IBM\WMQ\MQMessage.cs" />
+    <Compile Include="IBM\WMQAX\MQMessage.cs" />
+    <Compile Include="IBM\WMQ\MQPutMessageOptions.cs" />
+    <Compile Include="IBM\WMQAX\MQPutMessageOptions.cs" />
+    <Compile Include="IBM\WMQ\MQManagedObject.cs" />
+    <Compile Include="IBM\WMQ\MQDestination.cs" />
+    <Compile Include="IBM\WMQ\MQQueue.cs" />
+    <Compile Include="IBM\WMQAX\MQQueue.cs" />
+    <Compile Include="IBM\WMQ\MQQueueManager.cs" />
+    <Compile Include="IBM\WMQAX\MQQueueManager.cs" />
+    <Compile Include="IBM\WMQAX\MQSession.cs" />
+    <Compile Include="IBM\WMQ\MQAsyncStatus.cs" />
+    <Compile Include="IBM\WMQ\MQASYNC_MESSAGE.cs" />
+    <Compile Include="IBM\WMQ\MQAuthenticationInformationRecord.cs" />
+    <Compile Include="IBM\WMQ\MQDisposer.cs" />
+    <Compile Include="IBM\WMQ\MQBeginOptions.cs" />
+    <Compile Include="IBM\WMQ\MQC.cs" />
+    <Compile Include="IBM\WMQ\MQCcsidTable.cs" />
+    <Compile Include="IBM\WMQ\MQChannelDefinition.cs" />
+    <Compile Include="IBM\WMQ\MQCHARV.cs" />
+    <Compile Include="IBM\WMQ\MQCommsBufferImpl.cs" />
+    <Compile Include="IBM\WMQ\MQCommsBufferPool.cs" />
+    <Compile Include="IBM\WMQ\MQConnectionPool.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQDLH.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiXA.cs" />
+    <Compile Include="IBM\WMQ\MQFAP.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQFAPConnection.cs" />
+    <Compile Include="IBM\WMQ\structMQFAPMQCNO.cs" />
+    <Compile Include="IBM\WMQ\MQFAPMQCNO.cs" />
+    <Compile Include="IBM\WMQ\structMQID.cs" />
+    <Compile Include="IBM\WMQ\MQID.cs" />
+    <Compile Include="IBM\WMQ\structMQERD.cs" />
+    <Compile Include="IBM\WMQ\MQERD.cs" />
+    <Compile Include="IBM\WMQ\structMQAPI.cs" />
+    <Compile Include="IBM\WMQ\MQAPI.cs" />
+    <Compile Include="IBM\WMQ\structMQCONN.cs" />
+    <Compile Include="IBM\WMQ\MQCONN.cs" />
+    <Compile Include="IBM\WMQ\structMQCAUT.cs" />
+    <Compile Include="IBM\WMQ\MQCAUT.cs" />
+    <Compile Include="IBM\WMQ\MQChannelExit.cs" />
+    <Compile Include="IBM\WMQ\MQSecurityExit.cs" />
+    <Compile Include="IBM\WMQ\MQSendExit.cs" />
+    <Compile Include="IBM\WMQ\structMQSockat.cs" />
+    <Compile Include="IBM\WMQ\MQSOCKACT.cs" />
+    <Compile Include="IBM\WMQ\MQReceiveExit.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQRcvThread.cs" />
+    <Compile Include="IBM\WMQ\MQChannelTable.cs" />
+    <Compile Include="IBM\WMQ\ExitInstance.cs" />
+    <Compile Include="IBM\WMQ\MQChannelExitHandler.cs" />
+    <Compile Include="IBM\WMQ\MQManagedClientException.cs" />
+    <Compile Include="IBM\WMQ\MQConnectionSecurityParameters.cs" />
+    <Compile Include="IBM\WMQ\MQConnectOptions.cs" />
+    <Compile Include="IBM\WMQ\MQEnvironment.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQManagedPPA.cs" />
+    <Compile Include="IBM\WMQ\MQMarshalMessageForPut.cs" />
+    <Compile Include="IBM\WMQ\MQMarshalMessageForGet.cs" />
+    <Compile Include="IBM\WMQ\MQMessageDescriptor.cs" />
+    <Compile Include="IBM\WMQ\structMQNOTIFICATION.cs" />
+    <Compile Include="IBM\WMQ\MQNOTIFICATION.cs" />
+    <Compile Include="IBM\WMQ\MQObjectDescriptor.cs" />
+    <Compile Include="IBM\WMQ\structMQOPENPRIV.cs" />
+    <Compile Include="IBM\WMQ\MQOPEN_PRIV.cs" />
+    <Compile Include="IBM\WMQ\MQProcess.cs" />
+    <Compile Include="IBM\WMQ\MQPD.cs" />
+    <Compile Include="IBM\WMQ\MQPropertyDescriptor.cs" />
+    <Compile Include="IBM\WMQ\MQProxyMessage.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQProxyQueue.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQProxyQueueManager.cs" />
+    <Compile Include="IBM\WMQ\MQRequestEntry.cs" />
+    <Compile Include="IBM\WMQ\structMQREQUEST_MSGS.cs" />
+    <Compile Include="IBM\WMQ\MQREQUEST_MSGS.cs" />
+    <Compile Include="IBM\WMQ\structMQSPI.cs" />
+    <Compile Include="IBM\WMQ\MQSPI.cs" />
+    <Compile Include="IBM\WMQ\LPIACTIVATE.cs" />
+    <Compile Include="IBM\WMQ\MQSPIActivateOpts.cs" />
+    <Compile Include="IBM\WMQ\SPIACTIVATEIN.cs" />
+    <Compile Include="IBM\WMQ\MQSPIActivateIn.cs" />
+    <Compile Include="IBM\WMQ\SPIACTIVATEINOUT.cs" />
+    <Compile Include="IBM\WMQ\MQSPIActivateInOut.cs" />
+    <Compile Include="IBM\WMQ\SPIACTIVATEOUT.cs" />
+    <Compile Include="IBM\WMQ\MQSPIActivateOut.cs" />
+    <Compile Include="IBM\WMQ\LPIGETOPT.cs" />
+    <Compile Include="IBM\WMQ\MQSPIGetOpts.cs" />
+    <Compile Include="IBM\WMQ\SPIGETIN.cs" />
+    <Compile Include="IBM\WMQ\MQSPIGetIn.cs" />
+    <Compile Include="IBM\WMQ\SPIGETNOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIGetInOut.cs" />
+    <Compile Include="IBM\WMQ\SPIGETOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIGetOut.cs" />
+    <Compile Include="IBM\WMQ\LPIPUTOPTS.cs" />
+    <Compile Include="IBM\WMQ\MQSPIPutOpts.cs" />
+    <Compile Include="IBM\WMQ\SPIPUTIN.cs" />
+    <Compile Include="IBM\WMQ\MQSPIPutIn.cs" />
+    <Compile Include="IBM\WMQ\SPIPUTINOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIPutInOut.cs" />
+    <Compile Include="IBM\WMQ\SPIPUTOUT.cs" />
+    <Compile Include="IBM\WMQ\MQSPIPutOut.cs" />
+    <Compile Include="IBM\WMQ\SPIQUERYIN.cs" />
+    <Compile Include="IBM\WMQ\MQSPIQueryIn.cs" />
+    <Compile Include="IBM\WMQ\SPIQUERYINOUT.cs" />
+    <Compile Include="IBM\WMQ\MQSPIQueryInOut.cs" />
+    <Compile Include="IBM\WMQ\SPIQUERYVERB.cs" />
+    <Compile Include="IBM\WMQ\SPIQUERYOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIQueryOut.cs" />
+    <Compile Include="IBM\WMQ\SPIRESERVEIN.cs" />
+    <Compile Include="IBM\WMQ\MQSPIReserveIn.cs" />
+    <Compile Include="IBM\WMQ\SPIRESERVEINOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIReserveInOut.cs" />
+    <Compile Include="IBM\WMQ\SPIRESERVEOUT.cs" />
+    <Compile Include="IBM\WMQ\MQSPIReserveOut.cs" />
+    <Compile Include="IBM\WMQ\LPISPO.cs" />
+    <Compile Include="IBM\WMQ\MQSPISyncpointOpts.cs" />
+    <Compile Include="IBM\WMQ\SPISYNCPOINTIN.cs" />
+    <Compile Include="IBM\WMQ\MQSPISyncpointIn.cs" />
+    <Compile Include="IBM\WMQ\SPISYNCPOINTINOUT.cs" />
+    <Compile Include="IBM\WMQ\MQSPISyncpointInOut.cs" />
+    <Compile Include="IBM\WMQ\SPISYNCPOINTOUT.cs" />
+    <Compile Include="IBM\WMQ\MQSPISyncpointOut.cs" />
+    <Compile Include="IBM\WMQ\MQSSLConfigOptions.cs" />
+    <Compile Include="IBM\WMQ\MQSubscriptionDescriptor.cs" />
+    <Compile Include="IBM\WMQ\MQTagPool.cs" />
+    <Compile Include="IBM\WMQ\MQTCPConnection.cs" />
+    <Compile Include="IBM\WMQ\structMQTSH.cs" />
+    <Compile Include="IBM\WMQ\structMQTSHM.cs" />
+    <Compile Include="IBM\WMQ\MQTSH.cs" />
+    <Compile Include="IBM\WMQ\structMQUID.cs" />
+    <Compile Include="IBM\WMQ\MQUID.cs" />
+    <Compile Include="IBM\WMQ\PCF\PCFAgent.cs" />
+    <Compile Include="IBM\WMQ\PCF\PCFException.cs" />
+    <Compile Include="IBM\WMQ\PCF\PCFHeader.cs" />
+    <Compile Include="IBM\WMQ\PCF\PCFMessage.cs" />
+    <Compile Include="IBM\WMQ\PCF\PCFMessageAgent.cs" />
+    <Compile Include="IBM\WMQ\PCF\PCFParameter.cs" />
+    <Compile Include="IBM\WMQ\PCF\MQCFH.cs" />
+    <Compile Include="IBM\WMQ\PCF\MQCFIL.cs" />
+    <Compile Include="IBM\WMQ\PCF\MQCFIN.cs" />
+    <Compile Include="IBM\WMQ\PCF\MQCFSL.cs" />
+    <Compile Include="IBM\WMQ\PCF\MQCFST.cs" />
+    <Compile Include="IBM\WMQ\MQTrigger.cs" />
+    <Compile Include="IBM\WMQ\MQIniFile.cs" />
+    <Compile Include="IBM\WMQ\MQClientCfg.cs" />
+    <Compile Include="IBM\WMQ\MQSubscription.cs" />
+    <Compile Include="IBM\WMQ\MQTopic.cs" />
+    <Compile Include="IBM\WMQ\RFH2.cs" />
+    <Compile Include="IBM\WMQ\RFH2Folder.cs" />
+    <Compile Include="IBM\WMQ\MQChannelEntry.cs" />
+    <Compile Include="IBM\WMQ\MQChannelListEntry.cs" />
+    <Compile Include="IBM\WMQ\MQLPIGetOpts.cs" />
+    <Compile Include="IBM\WMQ\MQThreadChannelEntry.cs" />
+    <Compile Include="IBM\WMQ\MQSubscriptionRequestOptions.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\HconnAdapter.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\HobjAdapter.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiConnectOptions.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiEnvironment.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiFactory.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiTools.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiException.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiPropertyHandler.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\ManagedNmqiMQ.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\ManagedHconn.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\ManagedHobj.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\Phconn.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\Phobj.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQConsumer.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQCBD.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQCBC.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQCTLO.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQAsyncConsume.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQAsyncDelivery.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQDispatchThread.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\LpiNotifyDetails.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\LpiSD.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\LpiUSD.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\LpiSDSubProps.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\SpiConnectOptions.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\SpiGetOptions.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\SpiOpenOptions.cs" />
+    <Compile Include="IBM\WMQ\SPINOTIFYIN.cs" />
+    <Compile Include="IBM\WMQ\MQSPINotifyIn.cs" />
+    <Compile Include="IBM\WMQ\SPINOTIFYINOUT.cs" />
+    <Compile Include="IBM\WMQ\MQSPINotifyInOut.cs" />
+    <Compile Include="IBM\WMQ\SPINOTIFYOUT.cs" />
+    <Compile Include="IBM\WMQ\MQSPINotifyOut.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\QueueManagerInfo.cs" />
+    <Compile Include="IBM\WMQ\SPISUBSCRIBEINHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPISubscribeIn.cs" />
+    <Compile Include="IBM\WMQ\SPISUBSCRIBEINOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPISubscribeInOut.cs" />
+    <Compile Include="IBM\WMQ\SPISUBSCRIBEOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPISubscribeOut.cs" />
+    <Compile Include="IBM\WMQ\SPIOPENINHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIOpenIn.cs" />
+    <Compile Include="IBM\WMQ\SPIOPENINOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIOpenInOut.cs" />
+    <Compile Include="IBM\WMQ\SPIOPENOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIOpenOut.cs" />
+    <Compile Include="IBM\WMQ\SPIPRODIDINHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIProdIdIn.cs" />
+    <Compile Include="IBM\WMQ\SPIPRODIDINOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIProdIdInOut.cs" />
+    <Compile Include="IBM\WMQ\SPIPRODIDOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIProdIdOut.cs" />
+    <Compile Include="IBM\WMQ\SPISHARECNVINHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIShareCnvIn.cs" />
+    <Compile Include="IBM\WMQ\SPISHARECNVINOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIShareCnvInOut.cs" />
+    <Compile Include="IBM\WMQ\SPISHARECNVOUTHDR.cs" />
+    <Compile Include="IBM\WMQ\MQSPIShareCnvOut.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiStructureFormatter.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQManagedReconnectableThread.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\ReconnectTime.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\ManagedReconnectableHconn.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\ManagedReconnectableHobj.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\ManagedReconnectableHsub.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\XAINFO.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQXAInfo.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\Xid.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQXid.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiXAResourceManager.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQDTCCallbackObserver.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQXAConstants.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQMonitorLogWritter.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQTransactionRecovery.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQRecoveryEnlistment.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQXARecoveryBridge.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NativeBindings.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NativeCommonService.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NativeManager.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NativeUnmanaged.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NativeXAUnmanaged.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\UnmanagedNmqiMQ.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\XAUnmanagedNmqiMQ.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\UnmanagedHobj.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\UnmanagedHconn.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQSession.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQFAPConnectionPool.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\Lock.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\Guard.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\NmqiConstants.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\ManagedHsub.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQConnectionSpecification.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\IMQNetworkModule.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQCipherMappingTable.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQCipherMapplingList.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQEncryptedSocket.cs" />
+    <Compile Include="IBM\WMQ\MQExternalSourceTracer.cs" />
+    <Compile Include="IBM\WMQ\ExternalSourceTrace.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQPeerNameMatching.cs" />
+    <Compile Include="IBM\WMQ\Nmqi\MQPlainSocket.cs" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\amqmdxcs\amqmdxcs.csproj">
+      <Project>{bb521392-693c-4236-8ff2-e592bbb2e523}</Project>
+      <Name>amqmdxcs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+</Project>

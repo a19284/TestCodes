@@ -1,0 +1,14 @@
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\IServiceInterface\bin\Debug\IServiceInterface.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\IServiceInterface\bin\Debug\IServiceInterface.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\IServiceInterface\bin\Debug\Model.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\IServiceInterface\bin\Debug\Model.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\IServiceInterface\obj\Debug\IServiceInterface.csprojResolveAssemblyReference.cache
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\IServiceInterface\obj\Debug\IServiceInterface.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\IServiceInterface\obj\Debug\IServiceInterface.pdb
+D:\Mycode\WcfRestTest\IServiceInterface\bin\Debug\IServiceInterface.dll
+D:\Mycode\WcfRestTest\IServiceInterface\bin\Debug\IServiceInterface.pdb
+D:\Mycode\WcfRestTest\IServiceInterface\bin\Debug\Model.dll
+D:\Mycode\WcfRestTest\IServiceInterface\bin\Debug\Model.pdb
+D:\Mycode\WcfRestTest\IServiceInterface\obj\Debug\IServiceInterface.csprojResolveAssemblyReference.cache
+D:\Mycode\WcfRestTest\IServiceInterface\obj\Debug\IServiceInterface.dll
+D:\Mycode\WcfRestTest\IServiceInterface\obj\Debug\IServiceInterface.pdb

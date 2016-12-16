@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="F:\UserService" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/RestService.dll" publishTime="10/24/2013 22:07:33" />
+    <file relUrl="WcfRestService.svc" publishTime="10/20/2013 19:45:02" />
+    <file relUrl="bin/IServiceInterface.dll" publishTime="10/24/2013 22:07:32" />
+    <file relUrl="Web.config" publishTime="10/23/2013 23:25:09" />
+    <file relUrl="bin/Model.dll" publishTime="10/23/2013 23:24:58" />
+    <file relUrl="bin/IServiceInterface.pdb" publishTime="10/24/2013 22:07:32" />
+    <file relUrl="bin/Model.pdb" publishTime="10/23/2013 23:24:58" />
+    <file relUrl="bin/ServiceBll.dll" publishTime="10/24/2013 22:07:33" />
+    <file relUrl="bin/ServiceBll.pdb" publishTime="10/24/2013 22:07:33" />
+    <file relUrl="bin/RestService.pdb" publishTime="10/24/2013 22:07:33" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E7B961E6-EA2E-42DC-85C0-D44E88F744FE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SOA</RootNamespace>
+    <AssemblyName>SOA</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="amqmdnet, Version=7.5.0.3, Culture=neutral, PublicKeyToken=dd3cb1c9aae9ec97, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\YJSInterface_Order\amqmdnet.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.15.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="common\Properties.cs" />
+    <Compile Include="connection\IConnectionManager.cs" />
+    <Compile Include="connection\IConnectionPoolManager.cs" />
+    <Compile Include="connection\IDynamicObject.cs" />
+    <Compile Include="connection\IObjectPool.cs" />
+    <Compile Include="connection\IPooledObjSupporter.cs" />
+    <Compile Include="connection\mqcm\MQPool.cs" />
+    <Compile Include="connection\mqcm\MQConnectionPoolFactory.cs" />
+    <Compile Include="connection\mqcm\ObjectPool.cs" />
+    <Compile Include="connection\mqcm\PoolableMQConnectionManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="connection\mqcm\PoolItem.cs" />
+    <Compile Include="connection\mqc\MQQueueAccesser.cs" />
+    <Compile Include="exception\EisException.cs" />
+    <Compile Include="common\CacheManager.cs" />
+    <Compile Include="config\ConfigConstants.cs" />
+    <Compile Include="connection\IConnection.cs" />
+    <Compile Include="connection\mqc\MQCException.cs" />
+    <Compile Include="connection\mqc\MQConnection.cs" />
+    <Compile Include="connection\mqc\MQConnectionShutDownHook.cs" />
+    <Compile Include="connection\mqc\MQCParameter.cs" />
+    <Compile Include="connection\mqc\MQMsgRef.cs" />
+    <Compile Include="handler\IServiceHandler.cs" />
+    <Compile Include="log\LogUtil.cs" />
+    <Compile Include="message\Dynamic\DynamicHelper.cs" />
+    <Compile Include="message\Dynamic\DynamicXElement.cs" />
+    <Compile Include="message\Dynamic\DynamicXMLNode.cs" />
+    <Compile Include="message\Dynamic\XmlMarkupBuilder.cs" />
+    <Compile Include="message\implcom\MsgConstants.cs" />
+    <Compile Include="message\XmlHelper.cs" />
+    <Compile Include="MQHelp.cs" />
+    <Compile Include="connection\mqc\MQParameter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="message\Request\IMsgObject.cs" />
+    <Compile Include="message\Response\IMsgObject.cs" />
+    <Compile Include="message\XmlUtil.cs" />
+    <Compile Include="provider\impl\AbstractServiceProvider.cs" />
+    <Compile Include="provider\impl\BaseServiceProvider.cs" />
+    <Compile Include="provider\impl\ProviderShutDownHook.cs" />
+    <Compile Include="provider\impl\ServiceProvider.cs" />
+    <Compile Include="provider\impl\SubServiceProvider.cs" />
+    <Compile Include="provider\IServiceProvider.cs" />
+    <Compile Include="receiver\IServiceReceiver.cs" />
+    <Compile Include="requester\impl\AbstractServiceRequester.cs" />
+    <Compile Include="requester\impl\BaseServiceRequester.cs" />
+    <Compile Include="requester\IServiceRequester.cs" />
+    <Compile Include="sender\IServiceSender.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

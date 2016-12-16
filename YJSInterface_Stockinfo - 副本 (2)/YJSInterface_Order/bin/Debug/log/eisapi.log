@@ -1,0 +1,109 @@
+[2016-10-10 10:39:25,108]  11328 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:39:38,671]  11328 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:39:38,741]  11328 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:41:07,454]  11732 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:41:07,497]  11732 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:41:07,551]  11732 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:42:26,601]  10952 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:42:26,643]  10952 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:42:26,697]  10952 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:44:41,824]  1524 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:44:41,887]  1524 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:44:41,942]  1524 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:45:11,446]  8792 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:45:11,490]  8792 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:45:11,514]  8792 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:46:40,682]  8792 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 10:46:40,683]  8792 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init End()
+[2016-10-10 10:46:40,700]  8792 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- Exception:未将对象引用设置到对象的实例。
+[2016-10-10 10:46:40,701]  8792 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:46:40,702]  8792 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:46:40,702]  8792 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:46:40,725]  8792 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 10:46:40,960]  8792 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:46:42,064]  11612 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:46:42,065]  11612 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:46:42,066]  11612 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:46:42,089]  11612 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 10:46:42,089]  11612 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init End()
+[2016-10-10 10:46:42,097]  11612 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- Exception:未将对象引用设置到对象的实例。
+[2016-10-10 10:46:42,097]  11612 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:46:42,097]  11612 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:46:42,097]  11612 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:46:42,116]  11612 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 10:46:42,214]  11612 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:46:45,065]  4712 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:46:45,068]  4712 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:46:45,068]  4712 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:46:55,305]  5260 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:46:55,356]  5260 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:46:55,395]  5260 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:47:31,257]  4092 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:47:31,301]  4092 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:47:31,352]  4092 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:48:56,168]  11772 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:48:56,210]  11772 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:48:56,235]  11772 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 10:51:21,485]  4112 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 10:51:21,543]  4112 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 10:51:21,566]  4112 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 17:32:23,787]  11508 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 17:32:24,113]  11508 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:32:24,146]  11508 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 17:32:25,568]  11508 -- ERROR -- System.String [Error] -- CompCode: 2, Reason: 2538
+[2016-10-10 17:32:25,571]  11508 -- ERROR -- System.String [Error] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]，已经做了[1]次尝试！
+[2016-10-10 17:32:25,598]  11508 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 17:32:25,599]  11508 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init End()
+[2016-10-10 17:32:26,994]  11508 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- Exception:未将对象引用设置到对象的实例。
+[2016-10-10 17:32:26,995]  11508 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:32:26,996]  11508 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:32:26,996]  11508 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 17:32:28,038]  11508 -- ERROR -- System.String [Error] -- CompCode: 2, Reason: 2538
+[2016-10-10 17:32:28,038]  11508 -- ERROR -- System.String [Error] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]，已经做了[1]次尝试！
+[2016-10-10 17:32:28,060]  11508 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 17:32:28,333]  11508 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:32:55,747]  11880 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 17:32:55,747]  11880 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:32:55,748]  11880 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 17:32:56,928]  11880 -- ERROR -- System.String [Error] -- CompCode: 2, Reason: 2538
+[2016-10-10 17:32:56,930]  11880 -- ERROR -- System.String [Error] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]，已经做了[1]次尝试！
+[2016-10-10 17:32:56,948]  11880 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 17:32:56,948]  11880 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init End()
+[2016-10-10 17:32:56,954]  11880 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- Exception:未将对象引用设置到对象的实例。
+[2016-10-10 17:32:56,955]  11880 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:32:56,955]  11880 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:32:56,955]  11880 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 17:32:58,001]  11880 -- ERROR -- System.String [Error] -- CompCode: 2, Reason: 2538
+[2016-10-10 17:32:58,001]  11880 -- ERROR -- System.String [Error] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]，已经做了[1]次尝试！
+[2016-10-10 17:32:58,016]  11880 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 17:32:58,133]  11880 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:34:37,205]  11508 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 17:34:37,206]  11508 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:34:37,206]  11508 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 17:34:38,257]  11508 -- ERROR -- System.String [Error] -- CompCode: 2, Reason: 2538
+[2016-10-10 17:34:38,257]  11508 -- ERROR -- System.String [Error] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]，已经做了[1]次尝试！
+[2016-10-10 17:34:38,276]  11508 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 17:34:38,277]  11508 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init End()
+[2016-10-10 17:34:47,018]  11508 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- Exception:未将对象引用设置到对象的实例。
+[2016-10-10 17:34:47,019]  11508 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:34:47,019]  11508 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:34:47,019]  11508 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 17:34:48,062]  11508 -- ERROR -- System.String [Error] -- CompCode: 2, Reason: 2538
+[2016-10-10 17:34:48,062]  11508 -- ERROR -- System.String [Error] -- MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]，已经做了[1]次尝试！
+[2016-10-10 17:34:48,079]  11508 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=8900,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 17:34:48,176]  11508 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:36:46,753]  13488 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init Start()
+[2016-10-10 17:36:46,819]  13488 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:36:46,823]  13488 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=1414,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 17:36:48,030]  13488 -- ERROR -- System.String [Error] -- CompCode: 2, Reason: 2538
+[2016-10-10 17:36:48,031]  13488 -- ERROR -- System.String [Error] -- MQParameter[hostname=127.0.0.1,port=1414,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]，已经做了[1]次尝试！
+[2016-10-10 17:36:48,053]  13488 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=1414,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 17:36:48,054]  13488 -- INFO  -- SOA.requester.impl.BaseServiceRequester [Info] -- AbstractServiceRequester init End()
+[2016-10-10 17:36:50,290]  13488 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- Exception:未将对象引用设置到对象的实例。
+[2016-10-10 17:36:50,291]  13488 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:36:50,291]  13488 -- DEBUG -- SOA.connection.mqc.MQConnection [Debug] -- Open MQConnection : SOA.connection.mqc.MQConnection
+[2016-10-10 17:36:50,291]  13488 -- INFO  -- System.String [Info] -- MQParameter[hostname=127.0.0.1,port=1414,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]
+[2016-10-10 17:36:51,333]  13488 -- ERROR -- System.String [Error] -- CompCode: 2, Reason: 2538
+[2016-10-10 17:36:51,333]  13488 -- ERROR -- System.String [Error] -- MQParameter[hostname=127.0.0.1,port=1414,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]，已经做了[1]次尝试！
+[2016-10-10 17:36:51,353]  13488 -- ERROR -- SOA.connection.mqc.MQConnection [Error] -- MQ Client 初始化 Exception:不能连接到MQ Server :MQParameter[hostname=127.0.0.1,port=1414,ccsid=1381,channel=TT.SVRCONN,qmanager=IB9MQGR,queue=APP_IN1]]
+[2016-10-10 17:36:51,454]  13488 -- INFO  -- SOA.connection.mqc.MQConnection [Info] -- Close MQConnection : SOA.connection.mqc.MQConnection

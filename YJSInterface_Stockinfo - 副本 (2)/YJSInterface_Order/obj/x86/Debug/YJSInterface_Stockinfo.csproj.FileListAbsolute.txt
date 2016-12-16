@@ -1,0 +1,39 @@
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\bin\Debug\YJSInterface_Order.exe.config
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\obj\x86\Debug\YJSInterface.FMain.resources
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\obj\x86\Debug\YJSInterface.Properties.Resources.resources
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\obj\x86\Debug\YJSInterface_Stockinfo.csproj.GenerateResource.Cache
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\bin\Debug\YJSInterface_Order.exe
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\bin\Debug\YJSInterface_Order.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\obj\x86\Debug\YJSInterface_Order.exe
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\obj\x86\Debug\YJSInterface_Order.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\bin\Debug\Newtonsoft.Json.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\bin\Debug\SOA.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\bin\Debug\log4net.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\bin\Debug\SOA.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\YJSInterface_Order\obj\x86\Debug\YJSInterface_Stockinfo.csprojResolveAssemblyReference.cache
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\YJSInterface_Order.exe.config
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface_Order.exe
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface_Order.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface_Stockinfo.csprojResolveAssemblyReference.cache
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface.FMain.resources
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface.Properties.Resources.resources
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface_Stockinfo.csproj.GenerateResource.Cache
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\YJSInterface_Order.exe
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\YJSInterface_Order.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\Newtonsoft.Json.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\SOA.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\log4net.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\SOA.pdb
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\YJSInterface_Order.exe.config
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface_Order.exe
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface_Order.pdb
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface_Stockinfo.csprojResolveAssemblyReference.cache
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface.FMain.resources
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface.Properties.Resources.resources
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\obj\x86\Debug\YJSInterface_Stockinfo.csproj.GenerateResource.Cache
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\YJSInterface_Order.exe
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\YJSInterface_Order.pdb
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\Newtonsoft.Json.dll
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\SOA.dll
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\log4net.dll
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\YJSInterface_Order\bin\Debug\SOA.pdb

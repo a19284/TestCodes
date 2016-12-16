@@ -1,0 +1,5 @@
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\bin\Debug\SOA.MQ.dll
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\bin\Debug\SOA.MQ.pdb
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\obj\Debug\SOA.MQ.csprojResolveAssemblyReference.cache
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\obj\Debug\SOA.MQ.dll
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\obj\Debug\SOA.MQ.pdb

@@ -1,0 +1,8 @@
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ClientWeb\bin\ClientWeb.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ClientWeb\bin\ClientWeb.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ClientWeb\obj\Debug\ClientWeb.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\ClientWeb\obj\Debug\ClientWeb.pdb
+D:\Mycode\WcfRestTest\ClientWeb\bin\ClientWeb.dll
+D:\Mycode\WcfRestTest\ClientWeb\bin\ClientWeb.pdb
+D:\Mycode\WcfRestTest\ClientWeb\obj\Debug\ClientWeb.dll
+D:\Mycode\WcfRestTest\ClientWeb\obj\Debug\ClientWeb.pdb

@@ -1,0 +1,27 @@
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\bin\Debug\SOA.dll
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\bin\Debug\SOA.pdb
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\obj\Debug\SOA.dll
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\obj\Debug\SOA.pdb
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\bin\Debug\amqmdnet.dll
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\bin\Debug\amqmdxcs.dll
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\bin\Debug\amqmdnet.pdb
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\bin\Debug\amqmdxcs.pdb
+D:\work\ESB\NET\ESB_MQ\ESB_MQ\SOA.MQ\obj\Debug\SOA.csprojResolveAssemblyReference.cache
+C:\Users\zhangyiyan\Desktop\WMB\ESB_MQ\SOA.MQ\obj\Debug\SOA.csprojResolveAssemblyReference.cache
+C:\Users\zhangyiyan\Desktop\WMB\ESB_MQ\SOA.MQ\obj\Debug\SOA.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\SOA.MQ\obj\Debug\SOA.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\SOA.MQ\bin\Debug\SOA.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\SOA.MQ\bin\Debug\SOA.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\SOA.MQ\bin\Debug\log4net.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo\SOA.MQ\obj\Debug\SOA.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\bin\Debug\SOA.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\bin\Debug\SOA.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\bin\Debug\log4net.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\obj\Debug\SOA.dll
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\obj\Debug\SOA.pdb
+D:\Code\药交所接口程序_新平台\YJSInterface\YJSInterface\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\obj\Debug\SOA.csprojResolveAssemblyReference.cache
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\bin\Debug\SOA.dll
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\bin\Debug\SOA.pdb
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\bin\Debug\log4net.dll
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\obj\Debug\SOA.dll
+D:\Mycode\YJSInterface_Stockinfo - 副本 (2)\SOA.MQ\obj\Debug\SOA.pdb

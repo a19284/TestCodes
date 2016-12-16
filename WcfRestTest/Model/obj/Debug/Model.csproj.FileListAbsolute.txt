@@ -1,0 +1,8 @@
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\Model\bin\Debug\Model.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\Model\bin\Debug\Model.pdb
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\Model\obj\Debug\Model.dll
+d:\用户目录\documents\visual studio 2010\Projects\WcfRestTest\Model\obj\Debug\Model.pdb
+D:\Mycode\WcfRestTest\Model\bin\Debug\Model.dll
+D:\Mycode\WcfRestTest\Model\bin\Debug\Model.pdb
+D:\Mycode\WcfRestTest\Model\obj\Debug\Model.dll
+D:\Mycode\WcfRestTest\Model\obj\Debug\Model.pdb

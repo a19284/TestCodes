@@ -1,0 +1,15 @@
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\WcfServices\Service.Interface\bin\Debug\Artech.WcfServices.Service.Interface.dll
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\WcfServices\Service.Interface\bin\Debug\Artech.WcfServices.Service.Interface.pdb
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\WcfServices\Service.Interface\obj\Debug\ResolveAssemblyReference.cache
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\WcfServices\Service.Interface\obj\Debug\Artech.WcfServices.Service.Interface.dll
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\WcfServices\Service.Interface\obj\Debug\Artech.WcfServices.Service.Interface.pdb
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\bin\Debug\Artech.WcfServices.Service.Interface.dll
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\bin\Debug\Artech.WcfServices.Service.Interface.pdb
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\obj\Debug\ResolveAssemblyReference.cache
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\obj\Debug\Artech.WcfServices.Service.Interface.dll
+E:\WCF技术剖析\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\obj\Debug\Artech.WcfServices.Service.Interface.pdb
+E:\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\bin\Debug\Artech.WcfServices.Service.Interface.dll
+E:\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\bin\Debug\Artech.WcfServices.Service.Interface.pdb
+E:\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\obj\Debug\ResolveAssemblyReference.cache
+E:\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\obj\Debug\Artech.WcfServices.Service.Interface.dll
+E:\WCF技术剖析（卷1）（修订版）\Samples\Chapter 11\S1101\WcfServices\Service.Interface\obj\Debug\Artech.WcfServices.Service.Interface.pdb
